@@ -1,0 +1,2 @@
+# dogs_cats_recognition
+送信された画像に対して犬か猫かの判別を行うLINEbot
